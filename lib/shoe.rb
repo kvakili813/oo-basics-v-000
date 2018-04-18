@@ -11,6 +11,5 @@ class Shoe
   end
 
   self.condition = "new"
-end
 
 end# Make your shoe class here!
